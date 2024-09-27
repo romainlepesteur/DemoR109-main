@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+
+img{
+    margin-left: 300px;
+}
+
+h2{
+    color: blue;
+}
+
+body{
+    background-image: url("/images/hollowed-boxes.png");
+    background-size:50%
+
+}
+
+font-face {
+    font-family: "Trickster";
+}
+
+@font-face {
+    font-family: myfont;
+    src: url("/fonts/DancingScript-Regular.ttf")
+}
+
+h2{
+    font-family: myfont;
+}
